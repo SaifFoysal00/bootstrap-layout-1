@@ -1,0 +1,15 @@
+.header, .hero, .body, .bar, .fotter{
+	background: #ddd;
+	padding: 10px 0px;
+	margin-bottom: 10px;
+}
+.box{
+  height: 80px;
+  background:red;
+  color:white;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.b_green{
+	background: green;
+}
